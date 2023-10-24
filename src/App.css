@@ -1,0 +1,29 @@
+body{
+background-color: black;
+}
+.counter{
+    color:blueviolet
+}
+.eggs{
+    color:blueviolet;
+}
+.people{
+    color: blueviolet;
+}
+.reset{
+    color: blueviolet;
+    background-color: aqua ;
+}
+.increase{
+    color: blueviolet;
+    background-color: aqua ;
+}
+.decrease{
+    color: blueviolet;
+    background-color: aqua ;
+}
+.div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
